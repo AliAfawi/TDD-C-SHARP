@@ -1,0 +1,11 @@
+C:\Users\afawi\Desktop\Software\בדיקות\TDD\TDD\bin\Debug\TDD.exe.config
+C:\Users\afawi\Desktop\Software\בדיקות\TDD\TDD\bin\Debug\TDD.exe
+C:\Users\afawi\Desktop\Software\בדיקות\TDD\TDD\bin\Debug\TDD.pdb
+C:\Users\afawi\Desktop\Software\בדיקות\TDD\TDD\obj\Debug\TDD.csproj.AssemblyReference.cache
+C:\Users\afawi\Desktop\Software\בדיקות\TDD\TDD\obj\Debug\TDD.csproj.SuggestedBindingRedirects.cache
+C:\Users\afawi\Desktop\Software\בדיקות\TDD\TDD\obj\Debug\TDD.Properties.Resources.resources
+C:\Users\afawi\Desktop\Software\בדיקות\TDD\TDD\obj\Debug\TDD.csproj.GenerateResource.cache
+C:\Users\afawi\Desktop\Software\בדיקות\TDD\TDD\obj\Debug\TDD.csproj.CoreCompileInputs.cache
+C:\Users\afawi\Desktop\Software\בדיקות\TDD\TDD\obj\Debug\TDD.exe
+C:\Users\afawi\Desktop\Software\בדיקות\TDD\TDD\obj\Debug\TDD.pdb
+C:\Users\afawi\Desktop\Software\בדיקות\TDD\TDD\obj\Debug\TDD.Student.resources
